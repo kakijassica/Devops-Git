@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Hello jassica and DevOps
+=======
+Linux
+Git
+Permissions
+>>>>>>> 4bd965f (Added permissions notes)
